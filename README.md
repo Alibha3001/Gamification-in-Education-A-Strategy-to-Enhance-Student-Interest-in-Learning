@@ -77,6 +77,6 @@ Gamification is a powerful strategy to enhance student interest in learning. Whe
 
 👤 Author
 
-Your Name: Sankar Prasad Acharya
+Your Name: Alibha Bisoyi 
 Domain: Full Stack / AI-ML Developer
 Purpose: Educational Research / Academic Project
